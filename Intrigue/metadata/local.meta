@@ -1,0 +1,72 @@
+[intrigue_settings/logging]
+version = 8.0.6
+modtime = 1601723987.801256000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2Fintrigue%3AVulnerabilities%60%60splunk_cred_sep%60%601%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601715342.997727000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2Fintrigue%3AVulnerabilities%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601715343.005436000
+
+[inputs/intrigue%3A%2F%2FVulnerabilities]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601716591.095835000
+
+[collections/Intrigue_checkpointer]
+owner = splunk-system-user
+version = 8.0.6
+modtime = 1601715350.067295000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2Fintriguee%3AVulnerabilities%60%60splunk_cred_sep%60%601%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601717181.541381000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2Fintriguee%3AVulnerabilities%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601717181.547934000
+
+[props/source%3A%3A...intrigue%2A.log%2A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601722512.683204000
+
+[props/Intrigue_data_input]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601725721.847752000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2FIntrigue%3ANametest%60%60splunk_cred_sep%60%601%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601728750.160513000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2FIntrigue%3ANametest%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601728750.169550000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2FIntrigue%3AVulnerabilities%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601729383.225197000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2FIntrigue%3AEntities%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601923593.928325000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Intrigue%23data%2Finputs%2FIntrigue%3AConnections%60%60splunk_cred_sep%60%602%3A]
+owner = duartemateus
+version = 8.0.6
+modtime = 1601923629.709192000
+
+[app/install/install_source_checksum]
+version = 8.0.6
+modtime = 1602523983.893200000
