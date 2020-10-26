@@ -44,7 +44,7 @@ The purpose of the Intrigue Splunk App is to collect information from the [Intri
     * Access Key - This information can be access through ["My Profile"](https://app.intrigue.io/user/profile) on intrigue under "API Access". If you don't have one you can press "Generate New API Key" to create one.
     * Secret Key - This information is obtained when you press "Generate New API Key" under your ["My Profile"](https://app.intrigue.io/user/profile) on intrigue.
 
-### **How to vizualise collected data**
+### **How to visualize collected data**
 
 1. Log into splunk.
 
