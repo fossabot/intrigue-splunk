@@ -42,7 +42,7 @@ def buildJsonResult(helper, jsonResult):
         #     items.append(item)
         #     helper.save_check_point(item["id"], "Indexed")
         # UNCOMMENT THIS LINE WHILE TESTING
-        helper.delete_check_point(item["id"])
+        # helper.delete_check_point(item["id"])
     return items
 
 
@@ -98,7 +98,7 @@ def collect_events(helper, ew):
                                         use_proxy=True)
     helper.log_debug("got response back from API")
     r_status = response.status_code
-    helper.log_debug(f"got status code back from API {r_status}")
+    helper.log_debug("got status code back from API {}".format(r_status))
     if r_status != 200:
         response.raise_for_status()
         raise Exception("Error occurred when retrieving data.")
