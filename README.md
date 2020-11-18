@@ -1,4 +1,6 @@
 # **Intrigue Splunk App**
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fintrigueio%2Fintrigue-splunk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fintrigueio%2Fintrigue-splunk?ref=badge_shield)
+
 
 This is the official Intrigue.io Splunk App
 
@@ -56,3 +58,7 @@ The purpose of the Intrigue Splunk App is to collect information from the [Intri
 
     * Select either by "Host", "Sources" or "SourceType", whichever is relevant for the use case.
 1. The data should now appear in a queryable format.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fintrigueio%2Fintrigue-splunk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fintrigueio%2Fintrigue-splunk?ref=badge_large)
